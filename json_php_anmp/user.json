@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "username": "ken",
+    "password": "ken",
+    "email": "ken@mail.com",
+    "name": "kenda",
+    "balance": 275127,
+    "phone": "91136357657"
+  },
+  {
+    "id": 2,
+    "username": "ZCYp",
+    "password": "HPlTvmOoCz",
+    "email": "jYEzLgr@bSFZ.com",
+    "name": "CGgEvFHfTb",
+    "balance": 256766,
+    "phone": "81016307963"
+  },
+  {
+    "id": 3,
+    "username": "UoZi",
+    "password": "wiYeWXfxRT",
+    "email": "hXiOUDZ@dOLFgw.com",
+    "name": "APJOfctKnk",
+    "balance": 281017,
+    "phone": "35677609521"
+  },
+  {
+    "id": 4,
+    "username": "ZwPo",
+    "password": "FOLZtMImWd",
+    "email": "yzcwIao@aLTOn.com",
+    "name": "iTqQvZXjAN",
+    "balance": 218605,
+    "phone": "15470478928"
+  },
+  {
+    "id": 5,
+    "username": "jXmL",
+    "password": "ksGeZcLgpx",
+    "email": "SgViTLs@hgTMqa.com",
+    "name": "euXlsAxfYZ",
+    "balance": 295481,
+    "phone": "17509343615"
+  },
+  {
+    "id": 6,
+    "username": "TUSG",
+    "password": "OvblrkwNIg",
+    "email": "rjLmOGY@HTkPMlx.com",
+    "name": "OiVcxhvIlM",
+    "balance": 208035,
+    "phone": "50876713652"
+  }
+]
